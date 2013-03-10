@@ -1,10 +1,20 @@
+<!DOCTYPE html>
 <HTML>
 <HEAD>
-	<TITLE>FICHIER TEST BRANCHE TESTING</TITLE>
+    <title>TEST DE RESIZE CLIENT</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="http://code.jquery.com/mobile/1.3.0/jquery.mobile-1.3.0.min.css" />
+	<script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+	<script src="http://code.jquery.com/mobile/1.3.0/jquery.mobile-1.3.0.min.js"></script>
 </HEAD>
 <BODY>
-<?php
-echo 'ceci est un fichier test.';	
-?>
+<div data-role='page'>
+    <div data-role='header'>HEADER</div>
+    <div data-role='content'>
+    
+    
+    </div>
+    <div data-role='footer'>FOOTER</div>
+</div>
 </BODY>
 </HTML>
